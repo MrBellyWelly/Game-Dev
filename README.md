@@ -1,6 +1,6 @@
 # 2D Endless Runner Game
 
-# Summary
+# Overview
 
 In this straightforward **Endless Runner 2D game**, the player takes control of a character that advances on its own and has to avoid obstacles in order to live as long as possible. Over time, the game gets harder to test the player's timing and reflexes.
 
